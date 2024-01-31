@@ -40,3 +40,7 @@ log в кратком виде и с ветками
 ```sh
 git log --oneline --graph
 ```
+Просмотр статуса
+```sh
+git status
+```
