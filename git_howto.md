@@ -44,3 +44,5 @@ git log --oneline --graph
 ```sh
 git status
 ```
+
+# Конец :)
