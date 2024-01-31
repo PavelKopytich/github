@@ -59,3 +59,5 @@ git branch -d <имя ветки>
 ```sh
 git checkout <имя ветки>
 ```
+
+# КОНЕЦ :)
