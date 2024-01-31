@@ -30,11 +30,11 @@ git branch
 ```
 Создание ветки
 ```sh
-git branch <имя_ветки>
+git branch <имя ветки>
 ```
 Удаление ветки
 ```sh
-git branch -d <branch_name>
+git branch -d <имя ветки>
 ```
 log в кратком виде и с ветками
 ```sh
